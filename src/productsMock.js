@@ -1,0 +1,78 @@
+export let products = [
+  {
+    id: 1,
+    title: "Excellent Maintenance cachorro 20 kg",
+    price: 26000,
+    stock: 4,
+    description:
+      "Alimento Excellent Maintenance Formula para perro cachorro todos los tamaños sabor mix en bolsa de 20 kg",
+    category: "perros",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471108/excellentpuppy_t1ukmj.png",
+  },
+  {
+    id: 2,
+    title: "Excellent Maintenance 20 kg",
+    price: 20000,
+    stock: 10,
+    description:
+      "Alimento Excellent Maintenance Formula para perro adulto todos los tamaños sabor mix en bolsa de 20 kg",
+    category: "gatos",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471031/excellentadulto_gil9qo.png",
+  },
+  {
+    id: 3,
+    title: "Collar",
+    price: 2000,
+    stock: 5,
+    description: "Collar De Perro Regulable Con Identificación Bordada 2 Cm",
+    category: "gatos",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471052/CollarDePerro_m7anlr.png",
+  },
+  {
+    id: 4,
+    title: "Collar Con Identificacion",
+    price: 5000,
+    stock: 5,
+    description:
+      "Collar De Perro Regulable Con Identificación Bordada 2 CmCama Para Perro Grande Colchoneta Antidesgarro",
+    category: "perros",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471077/proseguridad_p8x8bm.png",
+  },
+  {
+    id: 5,
+    title: "Royal Canin 20 kg",
+    price: 16000,
+    stock: 9,
+    description:
+      "Alimento Royal Canin Club Performance Adult para perro adulto todos los tamaños sabor mix en bolsa de 20 kg",
+    category: "gatos",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471044/PerformanceAdult_vvbc2n.png",
+  },
+  {
+    id: 6,
+    title: "Old 18 Kg",
+    price: 15000,
+    stock: 9,
+    description: "Old Prince Noveles Cordero Y Arroz Adulto X 18 Kg",
+    category: "gatos",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471136/oldprince_du4yzi.png",
+  },
+  {
+    id: 7,
+    title: "Abrigo Para Perros",
+    price: 16000,
+    stock: 5,
+    description: "Abrigo Buzo De Peluche Corderito Para Perros",
+    category: "perros",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471016/abrigopeluche_qbhmnj.png",
+  },
+  {
+    id: 8,
+    title: "Collar Premium Perro Pro",
+    price: 4000,
+    stock: 5,
+    description: "Collar Premium Perro Pro - Seguridad Identificación Bordado",
+    category: "perros",
+    img: "https://res.cloudinary.com/de6vdxrs6/image/upload/v1697471052/CollarDePerro_m7anlr.png",
+  },
+];

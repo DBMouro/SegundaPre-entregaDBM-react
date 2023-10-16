@@ -1,0 +1,20 @@
+.title-container {
+  font-size: 30px;
+  color: rgb(189, 43, 226);
+  margin-left: 40%;
+  margin-top: 5%;
+}
+
+.img-container {
+  margin-left: 40%;
+  margin-top: 5%;
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+  justify-content: center;
+}
+
+.boton-container {
+  margin-left: 40%;
+  margin-top: 1%;
+}
